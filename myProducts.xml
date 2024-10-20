@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="myProductsHTML.xsl"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="myProductsSchema.xsd">
+
+<product id="000-01">
+    <name>EcoGlow Moisturizing Cream</name>
+    <price>22.50</price>
+    <expirationDate>2026-02-01</expirationDate>
+    <stock>In stock</stock>
+    <ratings>4.0</ratings>
+</product>
+
+<product id="000-02">
+    <name>Radiant Vitamin C Serum</name>
+    <price>10.80</price>
+    <expirationDate>2026-06-01</expirationDate>
+    <stock>In stock</stock>
+    <ratings>4.0</ratings>
+</product>
+
+<product id="000-03">
+    <name>AquaMist Facial Hydration</name>
+    <price>35.0</price>
+    <expirationDate>2027-08-01</expirationDate>
+    <stock>Pre-order</stock>
+    <ratings>4.5</ratings>
+</product>
+
+<product id="000-04">
+    <name>ClearSkin Mask</name>
+    <price>9.50</price>
+    <expirationDate>2026-07-01</expirationDate>
+    <stock>Out of stock</stock>
+    <ratings>3.5</ratings>
+</product>
+
+<product id="000-05">
+    <name>LuminEssence Toner</name>
+    <price>15.45</price>
+    <expirationDate>2025-07-01</expirationDate>
+    <stock>In stock</stock>
+    <ratings>4.2</ratings>
+</product>
+
+<product id="000-06">
+    <name>Smooth Skin Scrub</name>
+    <price>20.0</price>
+    <expirationDate>2025-12-01</expirationDate>
+    <stock>Out of stock</stock>
+    <ratings>3.9</ratings>
+</product>
+
+<product id="000-07">
+    <name>Boost Anti-Aging Night Cream</name>
+    <price>37.50</price>
+    <expirationDate>2026-12-01</expirationDate>
+    <stock>In stock</stock>
+    <ratings>4.8</ratings>
+</product>
+
+<product id="000-08">
+    <name>HiSkin Hyaluronic Acid Serum</name>
+    <price>12.35</price>
+    <expirationDate>2027-01-01</expirationDate>
+    <stock>Pre-order</stock>
+    <ratings>4.0</ratings>
+</product>
+
+<product id="000-09">
+    <name>MaxProtect Sunscreen SPF 50</name>
+    <price>16.70</price>
+    <expirationDate>2026-05-01</expirationDate>
+    <stock>In stock</stock>
+    <ratings>3.4</ratings>
+</product>
+
+<product id="000-10">
+    <name>RenewSkin Enzyme Exfoliant</name>
+    <price>25.0</price>
+    <expirationDate>2027-03-01</expirationDate>
+    <stock>In stock</stock>
+    <ratings>4.3</ratings>
+</product>
+
+</products>
